@@ -1095,7 +1095,7 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/litecoinfinance/btcutil"
 	"io/ioutil"
 	"log"
 	"path/filepath"
@@ -1156,9 +1156,9 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/litecoinfinance/btcutil"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcd/wire"
 	"io/ioutil"
 	"log"
 	"path/filepath"
@@ -1248,9 +1248,9 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/litecoinfinance/btcutil"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcd/wire"
 	"io/ioutil"
 	"log"
 	"path/filepath"

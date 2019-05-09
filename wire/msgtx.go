@@ -10,7 +10,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
 )
 
 const (

@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcd/txscript"
+	"github.com/litecoinfinance/btcutil"
 )
 
 const (
